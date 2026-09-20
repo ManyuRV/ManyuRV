@@ -15,6 +15,6 @@ All three are runnable, use synthetic data, and include setup steps, tests, and 
 
 ## What I’m looking for
 
-Early-career data engineering, software engineering, forward deployed engineering, and customer-facing AI roles. Open to relocating across the US or Europe.
+Early-career data engineering, software engineering, forward deployed engineering, and customer-facing AI roles. Open to relocating across the US.
 
 [LinkedIn](https://www.linkedin.com/in/manyu-vuppula)
